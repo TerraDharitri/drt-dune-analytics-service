@@ -45,8 +45,8 @@ lerna-debug.log*
 !.dharitri/config/config.yaml
 
 # Environment
-.env
 .env.custom
 /scripts/insertCsv.ts
 scripts/
 out_csv/
+config.bat
